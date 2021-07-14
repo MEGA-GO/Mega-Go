@@ -17,6 +17,9 @@
                 best to take a look and resolve the issue as soon as possible. Make sure to check that a similar issue
                 has not been reported before.
             </p>
+            <p class="text-body-1">
+                If you decide to use this tool, please cite <a href="https://doi.org/10.1021/acs.jproteome.0c00926">Verschaffelt P, Van Den Bossche T, et al.</a>.
+            </p>
             <div class="d-flex justify-center align-center">
                 <v-btn x-large color="primary" to="/analysis">
                     <v-icon x-large class="mr-2">mdi-play-circle</v-icon>

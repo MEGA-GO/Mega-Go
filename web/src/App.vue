@@ -125,7 +125,7 @@ export default class App extends Vue {
         link: "https://pypi.org/project/megago"
     }, {
         icon: "mdi-newspaper-variant-outline",
-        link: ""
+        link: "https://doi.org/10.1021/acs.jproteome.0c00926"
     }];
 }
 </script>
